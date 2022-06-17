@@ -12,7 +12,7 @@
 background: linear-gradient(90deg, rgba(186,97,148,1) 0%, rgba(20,71,89,1) 52%, rgba(131,33,18,1) 99%);
 }
 .profilepic{
-  height:300px;
+  height:360px;
   margin-top: 50px;
   margin-bottom: 40px;
   margin-left: 40px;
@@ -171,30 +171,19 @@ margin-top:2px;
 background: linear-gradient(90deg, rgba(36,86,125,1) 0%, rgba(86,86,153,1) 52%, rgba(7,24,36,1) 100%);
 }
 .taxt{
+  padding-top: 30px;
   text-align: center;
 }
 #contact-me{
-  background: rgb(36,86,125);
-background: linear-gradient(90deg, rgba(36,86,125,1) 0%, rgba(86,86,153,1) 52%, rgba(7,24,36,1) 100%);
-}
-.p-bar{
-  margin-top: 15px;
-
+  background: rgb(185,187,123);
+background: linear-gradient(90deg, rgba(185,187,123,0.006039915966386533) 0%, rgba(185,178,92,0) 52%);
 }
 
-.card-text{
-  color:#000;
+.uddy{
+    height: 100px;
+    width: 100px;
+    align-self:center;
 }
-.card-title{
-  color: #000;
-}
-#last-page{
-  background: rgb(49,38,116);
-background: linear-gradient(90deg, rgba(49,38,116,0.4766281512605042) 0%, rgba(83,14,135,0) 52%);
-}
-.foot{
-  padding-top: 15px;
+.fact{
   text-align: center;
-  font-size: 16px;
-  margin-top: 30px;
 }
