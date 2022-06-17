@@ -12,7 +12,7 @@
 background: linear-gradient(90deg, rgba(186,97,148,1) 0%, rgba(20,71,89,1) 52%, rgba(131,33,18,1) 99%);
 }
 .profilepic{
-  height:360px;
+  height:300px;
   margin-top: 50px;
   margin-bottom: 40px;
   margin-left: 40px;
@@ -176,4 +176,15 @@ background: linear-gradient(90deg, rgba(36,86,125,1) 0%, rgba(86,86,153,1) 52%, 
 #contact-me{
   background: rgb(36,86,125);
 background: linear-gradient(90deg, rgba(36,86,125,1) 0%, rgba(86,86,153,1) 52%, rgba(7,24,36,1) 100%);
+}
+.p-bar{
+  margin-top: 15px;
+
+}
+
+.card-text{
+  color:#000;
+}
+.card-title{
+  color: #000;
 }
