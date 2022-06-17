@@ -188,3 +188,13 @@ background: linear-gradient(90deg, rgba(36,86,125,1) 0%, rgba(86,86,153,1) 52%, 
 .card-title{
   color: #000;
 }
+#last-page{
+  background: rgb(49,38,116);
+background: linear-gradient(90deg, rgba(49,38,116,0.4766281512605042) 0%, rgba(83,14,135,0) 52%);
+}
+.foot{
+  padding-top: 15px;
+  text-align: center;
+  font-size: 16px;
+  margin-top: 30px;
+}
