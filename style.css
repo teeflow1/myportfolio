@@ -1,5 +1,5 @@
 .navbar{
-  background-color: transparent;
+  background-color:transparent;
 }
 .nav-link{
   color:#ECF0F1  ;
@@ -7,15 +7,16 @@
 .opemi{
   color: #ECF0F1   ;
 }
-#menuman{
-  background: rgb(21,126,194);
-background: linear-gradient(90deg, rgba(21,126,194,0.006039915966386533) 0%, rgba(12,63,98,0) 52%, rgba(63,92,157,0) 100%);
+
+#menu-man{
+  background: rgb(83,28,195);
+  background: linear-gradient(143deg, rgba(83,28,195,1) 0%, rgba(201,92,14,1) 98%);
 }
 .profilepic{
   height:360px;
   margin-top: 50px;
   margin-bottom: 40px;
-  margin-left: 40px;
+  margin-left: 30px;
 
 }
 .myname{
