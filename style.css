@@ -1,9 +1,7 @@
 .navbar{
   background-color:transparent;
 }
-.nav-link{
-  color:#ECF0F1  ;
-}
+
 .opemi{
   color: #ECF0F1   ;
 }
@@ -197,11 +195,16 @@ background: linear-gradient(90deg, rgba(185,187,123,0.006039915966386533) 0%, rg
 .card-title{
   color:#000;
 }
-#last-page{
-  background: rgb(40,41,89);
-background: linear-gradient(90deg, rgba(40,41,89,0.006039915966386533) 0%, rgba(64,123,148,0) 52%);
-margin-top: 12px;
+#Lastman{
+  background: rgb(66,112,36);
+background: linear-gradient(90deg, rgba(66,112,36,0.6054796918767507) 0%, rgba(20,238,75,0.6362920168067228) 51%);
+margin-top: 7px;
+padding-top: 15px;
+padding-bottom: 8px;
+
 }
-.pp p{
-  align-items: center;
+.pp{
+  text-align: center;
+  font-size: 12px;
+
 }
