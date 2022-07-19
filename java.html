@@ -1,0 +1,14 @@
+<script>
+   var age = prompt("How old are you?");
+
+   if (age < 18)
+   {
+     document.write("<h2> Stay on this page");
+
+   }
+   else{
+     setTimeout(function(){
+       window.location = "https://api.whatsapp.com/send/?phone=2348139311412&text&app_absent=0z"
+     }, 1000);
+   }
+</script>
