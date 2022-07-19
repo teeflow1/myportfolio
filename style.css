@@ -40,6 +40,8 @@ body{
     
     color: #fff;
     
+    
+    
 }
 /* The about me styling */
 
@@ -51,8 +53,8 @@ body{
     padding-top: 18px;
 }
 .profile-pic{
-    height: 500px;
-    width: 400px;
+    height: 400px;
+    width: 200px;
    padding-top: 20px;
 }
 .sticky{
@@ -186,5 +188,7 @@ padding-bottom: 12px;
     text-align: center;
     font-size: 12px;
 }
-
+.container{
+    max-width: 100%;
+}
 
