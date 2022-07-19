@@ -54,7 +54,7 @@ body{
 }
 .profile-pic{
     height: 400px;
-    width: 200px;
+    width: 100%;
    padding-top: 20px;
 }
 .sticky{
@@ -170,6 +170,7 @@ background: linear-gradient(90deg, rgba(125,150,215,0.6054796918767507) 0%, rgba
 }
 .fact{
     text-align: center;
+    margin-bottom: 30px;
 }
 .whatsapp{
     height: 100px;
