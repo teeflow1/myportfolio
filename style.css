@@ -53,7 +53,7 @@ body{
     padding-top: 18px;
 }
 .profile-pic{
-    height: 400px;
+    height: 600px;
     width: 100%;
    padding-top: 20px;
 }
@@ -98,6 +98,7 @@ span{
 .btn{
     margin-top: 10px;
     text-align: center;
+    margin-bottom: 20px;
 }z
 /* My services Section */
 
@@ -115,6 +116,7 @@ margin-top: 8px;
 }
 .card-title{
     text-align: center;
+    
 }
 .card-text{
     color: #000;
@@ -125,7 +127,8 @@ margin-top: 8px;
 
 .recent{
     text-align: center;
-    margin-top: 25px;
+    margin-top: 30px;
+    
 }
 .limit1{
     margin-bottom: 40px;
@@ -192,4 +195,12 @@ padding-bottom: 12px;
 .container{
     max-width: 100%;
 }
-
+.card{
+    margin-bottom: 28px;
+}
+.ude{
+    text-align: center;
+}
+.card-footer{
+    text-align: center;
+}
